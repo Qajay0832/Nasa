@@ -1,0 +1,29 @@
+.current-image-container{
+    background-color: black;
+    color: white;
+    padding: 1rem;
+}
+.title{
+    font-size: 2rem;
+    text-align: left;
+    font-weight: 600;
+}
+.pic{
+
+}
+.searchSection{
+    display: flex;
+    gap: 2rem;
+}
+#search{
+    padding: 0rem 2rem;
+}
+.heading{
+    font-size: 1.5rem;
+    text-align: left;
+    font-weight: 400;
+}
+.searchList:hover{
+    cursor: pointer;
+    color: blue;
+}
